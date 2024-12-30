@@ -1,0 +1,14 @@
+/* style.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    display: block;
+    background: black;
+}
